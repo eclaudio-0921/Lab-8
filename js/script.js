@@ -1,2 +1,2 @@
 function init(Alert Me){
-window.addEventListener('load', init);
+window.addEventListener('entrybutton', init);
